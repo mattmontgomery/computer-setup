@@ -5,3 +5,4 @@
 - [Homebrew](https://brew.sh/)
 - [Oh My Zsh](https://ohmyz.sh/#install)
 - XCode
+- [GPG Agent](https://gpgtools.org/)
