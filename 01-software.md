@@ -10,6 +10,7 @@
 ### With Homebrew
 
 ```zsh
+brew install gh
 brew install --cask visual-studio-code
 brew install --cask docker
 ```
