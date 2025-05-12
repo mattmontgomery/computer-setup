@@ -9,6 +9,8 @@
 
 ### With Homebrew
 
+Just run 'em!
+
 ```zsh
 brew install gh
 brew install --cask visual-studio-code
