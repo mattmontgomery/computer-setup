@@ -1,18 +1,30 @@
 # common software
 
-- [VSCode](https://code.visualstudio.com/download)
-- [Docker Desktop](https://docs.docker.com/desktop/setup/install/mac-install/)
-- [Homebrew](https://brew.sh/)
-- [Oh My Zsh](https://ohmyz.sh/#install)
 - XCode
 - [GPG Agent](https://gpgtools.org/)
 
-### With Homebrew
+## With Homebrew
 
-Just run 'em!
+- [Homebrew](https://brew.sh/)
 
 ```zsh
+brew install nvm && mkdir ~/.nvm
 brew install gh
 brew install --cask visual-studio-code
 brew install --cask docker
 ```
+
+## Shell stuff
+
+- [Oh My Zsh](https://ohmyz.sh/#install)
+
+Fonts — these are largely for use with oh-my-zsh
+
+```zsh
+brew install --cask font-powerline-symbols
+brew install font-hack-nerd-font
+```
+
+### themes
+
+- https://github.com/spaceship-prompt/spaceship-prompt?tab=readme-ov-file
