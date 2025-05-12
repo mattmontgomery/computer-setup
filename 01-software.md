@@ -6,3 +6,8 @@
 - [Oh My Zsh](https://ohmyz.sh/#install)
 - XCode
 - [GPG Agent](https://gpgtools.org/)
+
+```zsh
+brew install --cask visual-studio-code
+
+```
