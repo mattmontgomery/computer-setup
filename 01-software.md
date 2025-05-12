@@ -7,7 +7,9 @@
 - XCode
 - [GPG Agent](https://gpgtools.org/)
 
+### With Homebrew
+
 ```zsh
 brew install --cask visual-studio-code
-
+brew install --cask docker
 ```
