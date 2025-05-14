@@ -11,6 +11,7 @@
 brew install nvm && mkdir ~/.nvm
 brew install gh
 brew install --cask visual-studio-code
+brew install --cask mongodb-compass
 brew install --cask docker
 ```
 
