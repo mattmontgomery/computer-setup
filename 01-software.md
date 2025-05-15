@@ -7,6 +7,8 @@
 
 - [Homebrew](https://brew.sh/)
 
+I should set this up with a brew file.
+
 ```zsh
 brew install nvm && mkdir ~/.nvm
 brew install gh
