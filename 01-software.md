@@ -15,6 +15,7 @@ brew install gh
 brew install --cask visual-studio-code
 brew install --cask mongodb-compass
 brew install --cask docker
+brew install --cask spotify
 ```
 
 ## Shell stuff
